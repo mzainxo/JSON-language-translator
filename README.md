@@ -1,4 +1,4 @@
-# Translation Service
+# JSON Language Translation Service
 
 This project is a translation service that utilizes the MarianMT model from Hugging Face's Transformers library to translate JSON data between multiple languages. The service is built using FastAPI and is designed to be efficient and scalable.
 
